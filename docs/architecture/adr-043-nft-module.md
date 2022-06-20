@@ -155,7 +155,7 @@ message MsgSend {
   string class_id = 1;
   string id       = 2;
   string sender   = 3;
-  string reveiver = 4;
+  string receiver = 4;
 }
 message MsgSendResponse {}
 ```
